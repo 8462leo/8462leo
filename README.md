@@ -9,9 +9,9 @@
 
 ###
 
-<div align="left">
-  <img src="((https://images.app.goo.gl/zEEQmXcFC7SqyKTJ8))" height="30" alt="Foto"  />
-  </div>
+<div align="right">
+  <img src="(https://github.com/user-attachments/assets/0bd443fc-62af-4ea2-a28c-5d5b188394ba)" height="30" alt="Foto"  />
+</div>
 
   
 ###
