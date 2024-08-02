@@ -9,8 +9,11 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="807982188401805256" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rosy00-gif-807982188401805256">Rosy00 GIF</a>from <a href="https://tenor.com/search/rosy00-gifs">Rosy00 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="left">
+  <img src="((https://images.app.goo.gl/zEEQmXcFC7SqyKTJ8))" height="30" alt="Foto"  />
+  </div>
 
+  
 ###
 
 <div align="left">
