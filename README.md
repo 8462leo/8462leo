@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/aa9d5ee8-7381-4580-8a52-5fa0fc61988f)
+![github-header-image (2)](https://github.com/user-attachments/assets/02688ad2-9902-49ee-b078-91ff3cc8d7f8)
+
 
 <br>
 
@@ -10,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=8462leo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=8462leo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
- <img src="https://github.com/user-attachments/assets/66fcf2d9-fa19-436f-b32b-8931e8d34ac3" align="right" height="150" width="150" alt="foto" />
   
 ###
 <br>
