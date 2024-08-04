@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&size=30&duration=4000&pause=800&width=500&height=100&lines=Hello+my+name+is+Leonardo...;I%E2%80%99m+21+years+old...;I%E2%80%99m+a+Software+Developer...;I%E2%80%99m+from+Brazil...;Welcome%3A)](https://git.io/typing-svg)
 
-<br>
-
 ###
 
 <div align="center">
@@ -18,6 +16,8 @@
  <img src="https://github.com/user-attachments/assets/66fcf2d9-fa19-436f-b32b-8931e8d34ac3" align="right" height="150" width="150" alt="foto" />
   
 ###
+<br>
+<br>
 
 <div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,7 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
-###
+<br>
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
