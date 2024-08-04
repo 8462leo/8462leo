@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Leonardo and I'm a ..., from ....</h2>
+<h2 align="left">Olá, Eu sou o Leonardo Benvenutti e sou de Santa Catarina👋!</h2>
+<p>Sou estudane de engenharia de software 📝 </p>
+<p></p>
+
 
 ###
 
