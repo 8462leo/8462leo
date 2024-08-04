@@ -9,10 +9,7 @@
 
 ###
 
-<div align="right">
-  <img src="(https://github.com/user-attachments/assets/0bd443fc-62af-4ea2-a28c-5d5b188394ba)" height="30" alt="Foto"  />
-</div>
-
+![download](https://github.com/user-attachments/assets/48cc5f48-e12e-4a09-a2df-fe15704ff74b)
   
 ###
 
