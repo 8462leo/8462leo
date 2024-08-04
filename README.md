@@ -1,3 +1,5 @@
+![github-header-image (1)](https://github.com/user-attachments/assets/aa9d5ee8-7381-4580-8a52-5fa0fc61988f)
+
 <h2 align="left">Olá, Eu sou o Leonardo Benvenutti e sou de Santa Catarina👋!</h2>
 <p>Sou estudane de engenharia de software 📝 </p>
 <p></p>
