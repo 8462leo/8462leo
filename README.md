@@ -9,9 +9,7 @@
 
 ###
 
-
- <img src="https://github.com/user-attachments/assets/48cc5f48-e12e-4a09-a2df-fe15704ff74b" align="right" height="150" width="150" alt="foto" />
-
+ <img src="https://github.com/user-attachments/assets/66fcf2d9-fa19-436f-b32b-8931e8d34ac3" align="right" height="150" width="150" alt="foto" />
   
 ###
 
@@ -48,7 +46,7 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/8462leo/8462leo/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
