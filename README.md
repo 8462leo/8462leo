@@ -1,9 +1,10 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/aa9d5ee8-7381-4580-8a52-5fa0fc61988f)
 
-<h2 align="left">Olá, Eu sou o Leonardo Benvenutti e sou de Santa Catarina👋!</h2>
-<p>Sou estudane de engenharia de software 📝 </p>
-<p></p>
+<br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&size=30&duration=4000&pause=800&center=true&vCenter=true&width=500&height=100&lines=Hello+my+name+is+Leonardo...;I%E2%80%99m+21+years+old...;I%E2%80%99m+a+Software+Developer...;I%E2%80%99m+from+Brazil...;Welcome%3A)](https://git.io/typing-svg)
+
+<br>
 
 ###
 
